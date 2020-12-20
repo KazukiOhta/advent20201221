@@ -15,8 +15,6 @@
 
 - Please take a look at [this article (Japanese)]() for the details.
 
-
-
 ## How can I see the app?
 
 - You can see the app on [heroku](https://aqueous-refuge-85467.herokuapp.com/).
@@ -48,3 +46,4 @@ $ python3 app.py
 
 open http://0.0.0.0:8080/ to see your app on a browser.
 
+![demo.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/145009/f87b64ff-7553-13e5-2ffd-770381a35867.gif)

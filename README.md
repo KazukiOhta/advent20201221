@@ -1,10 +1,5 @@
 # Count app with p5.js and Python
 
-## TODO
-
-- Qiitaの記事のリンクを貼る。
-
-
 ## What is this?
 
 - This app is a proof of concept that you can use python function from p5.js program via flask and ajax.
@@ -13,7 +8,7 @@
 
 - [main branch](https://github.com/KazukiOhta/advent20201221/tree/main) is full code. I deployed the app on heroku using this branch.
 
-- Please take a look at [this article (Japanese)]() for the details.
+- Please take a look at [this article (Japanese)](https://qiita.com/KazukiOta/items/0e36b559dd9600b034be) for the details.
 
 ## How can I see the app?
 

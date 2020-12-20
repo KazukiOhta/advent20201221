@@ -15,7 +15,7 @@
 
 - [heroku branch](https://github.com/KazukiOhta/advent20201221/tree/heroku) is full code. I deployed the app on heroku using this branch.
 
-- Please take a look at [this article (Japanese)]() .
+- Please take a look at [this article (Japanese)]() for the details.
 
 
 
